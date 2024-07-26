@@ -82,4 +82,4 @@ We value your contributions and strive to make the process of reporting issues a
 - **Nizar Talty** - *Data Science, class of 2026, Duke Kunshan University* - [Github](https://github.com/nexxusss)
 - **Renzo Balcazar Tapia** - *Data Science, class of 2025, Duke Kunshan University* - [Github](https://github.com/renz011tzar)
 - **Zhenshan Zhang** - *Applied Mathemetics, class of 2026, Duke Kunshan University* - [Github](https://github.com/Alphawarheads)
-- 
+- **Luyao Zhang** - *Assistant Professor of Economics and Senior Research Scientist at the Data Science Research Center, Duke Kunshan University* - [Github](https://github.com/sunshineluyao) -[Scholars](https://scholars.duke.edu/person/luyao.zhang)
